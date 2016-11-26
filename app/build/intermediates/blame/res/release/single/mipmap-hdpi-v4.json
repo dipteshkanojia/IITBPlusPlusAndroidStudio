@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/success.png",
+        "source": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/src/main/res/mipmap-hdpi/success.png"
+    },
+    {
+        "merged": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/fail.png",
+        "source": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/src/main/res/mipmap-hdpi/fail.png"
+    },
+    {
+        "merged": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/diptesh/AndroidStudioProjects/IITBPlusPlus/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
